@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464287124 source:i:\program\ type cast\main.c
+	<stdio.h>
+	<stdlib.h>
+

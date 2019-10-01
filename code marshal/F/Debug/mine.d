@@ -1,0 +1,1 @@
+mine.o: ../mine.c

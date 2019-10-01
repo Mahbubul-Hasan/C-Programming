@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464513909 source:f:\c programming\if ese basic\main.c
+	<stdio.h>
+	<stdlib.h>
+

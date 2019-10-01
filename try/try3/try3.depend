@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1466792156 source:f:\c programming\try3\main.c
+	<stdio.h>
+	<stdlib.h>
+

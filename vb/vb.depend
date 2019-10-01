@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1465234643 source:f:\c programming\ vb\main.c
+	<stdio.h>
+	<stdlib.h>
+

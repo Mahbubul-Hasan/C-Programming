@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464055179 source:i:\program\value interchange\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464088930 source:c:\users\administrator\desktop\lab\samit\main.c
+	<stdio.h>
+	<stdlib.h>
+

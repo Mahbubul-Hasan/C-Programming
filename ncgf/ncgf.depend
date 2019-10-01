@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1465228036 source:f:\c programming\ ncgf\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1464285718 source:i:\program\else\if\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1464285448 source:i:\program\else\if\1.c
+	<stdio.h>
+	<stdlib.h>
+
